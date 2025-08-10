@@ -1,0 +1,13 @@
+requests
+speechrecognition
+pyaudio
+playsound
+python-dotenv
+groq
+transformers
+torchaudio
+soundfile
+numpy
+scipy
+librosa
+openai
